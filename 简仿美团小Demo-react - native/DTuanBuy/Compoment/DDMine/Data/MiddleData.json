@@ -1,0 +1,21 @@
+
+{
+
+  "topData":
+  [
+    {"icon":"order1", "name":"待付款"},
+    {"icon":"order2", "name":"待使用"},
+    {"icon":"order3", "name":"待评价"},
+    {"icon":"order4", "name":"退款/售后"}
+
+  ],
+
+  "bottomData":
+  [
+    {"number":"100", "name":"豆豆金币"},
+    {"number":"12", "name":"评价"},
+    {"number":"50", "name":"收藏"}
+
+  ]
+
+}
